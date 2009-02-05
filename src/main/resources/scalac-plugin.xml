@@ -1,0 +1,4 @@
+<plugin>
+  <name>private-setters</name>
+  <classname>org.scala_lang.privateSetter.internal.privateSetterPlugin</classname>
+</plugin>
